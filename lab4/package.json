@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.2.5",
+    "axios": "^1.4.0",
+    "battery-level": "^3.0.0",
+    "systeminformation": "^5.17.17"
+  }
+}
